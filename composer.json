@@ -1,0 +1,16 @@
+{
+    "name": "moiz2050/hubspot-php",
+    "description": "HubSpot php api wrapper",
+    "require": {
+        "ryanwinchester/hubspot-php": "1.0.*",
+        "illuminate/support": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mueez Sattar Khan",
+            "email": "moizsattar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
